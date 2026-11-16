@@ -1,0 +1,17 @@
+{
+  "_comment": "Copy to the config location shown by `classroom-parser --help` (or pass --config). Every key is optional.",
+  "classes": ["AP Biology", "Algebra II", "English 10"],
+  "_classes": "Only read classes whose name contains one of these (case-insensitive). Leave empty to read every class.",
+  "signin_markers": ["sso.example-school.org"],
+  "_signin_markers": "Text in the URL of your school's single-sign-on page, so an expired session is detected there too. Google's own sign-in is always detected.",
+  "account_index": 0,
+  "_account_index": "Which Google account in this profile (the N in classroom.google.com/u/N/).",
+  "profile_dir": "",
+  "chrome_path": "",
+  "headless": true,
+  "page_delay_seconds": 2,
+  "include_todo": true,
+  "open_details": true,
+  "max_details": 40,
+  "include_auto_posts": false
+}

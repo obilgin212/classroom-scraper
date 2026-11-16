@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+.venv/
+# your data and sign-in never belong in the repo
+config.json
+*.snapshot.json
+raw*.json
+out*.json
+chrome-profile/
+*.lock
+scrub_words.txt

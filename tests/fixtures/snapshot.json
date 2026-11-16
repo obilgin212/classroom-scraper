@@ -1,0 +1,145 @@
+{
+  "when": "2026-03-10T16:00:00",
+  "base_url": "https://classroom.google.com",
+  "boilerplate": [
+    "Biology 101 - Period 2",
+    "Calendar",
+    "Classroom",
+    "Enrolled",
+    "Home",
+    "Room 204",
+    "To-do"
+  ],
+  "classes": {
+    "NzAxMjM0NTY3ODkw": {
+      "name": "Biology 101 - Period 2",
+      "stream": {
+        "url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw",
+        "final_url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw",
+        "title": "Biology 101 - Period 2",
+        "text": "Stream\nBiology 101 - Period 2\nUpcoming\nBring your lab notebook on Thursday.",
+        "links": [
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/LAB1/details",
+            "text": "Cell membrane lab report",
+            "label": ""
+          }
+        ]
+      },
+      "posts": [
+        {
+          "id": "P1",
+          "lines": [
+            "Post by Ms. Rivera",
+            "Ms. Rivera",
+            "Created Mar 9",
+            "Bring your lab notebook on Thursday.",
+            "1 class comment",
+            "Add class comment"
+          ],
+          "links": [
+            {
+              "url": "https://docs.google.com/document/d/SAFETY/edit",
+              "name": "Google Docs: Lab safety rules"
+            }
+          ]
+        },
+        {
+          "id": "P2",
+          "lines": [
+            "Ms. Rivera posted a new assignment: Cell membrane lab report",
+            "Mar 8"
+          ],
+          "links": []
+        }
+      ],
+      "classwork": {
+        "url": "https://classroom.google.com/w/NzAxMjM0NTY3ODkw/t/all",
+        "final_url": "https://classroom.google.com/w/NzAxMjM0NTY3ODkw/t/all",
+        "title": "Biology 101 - Period 2",
+        "text": "Classwork\nAll topics\nUnit 3: Cells\nAssignment\nCell membrane lab report\nDue Friday, 11:59 PM\nCompleted Assignment\nMitosis worksheet\nDue Mar 3\nMaterial\nUnit 3 slides\nPosted Mar 1\nQuestion\nExit ticket: osmosis\nNo due date",
+        "links": [
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/LAB1/details",
+            "text": "Cell membrane lab report",
+            "label": ""
+          },
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/MIT1/details",
+            "text": "Mitosis worksheet",
+            "label": ""
+          },
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/m/SLD1/details",
+            "text": "Unit 3 slides",
+            "label": ""
+          },
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/sa/EXT1/details",
+            "text": "Exit ticket: osmosis",
+            "label": ""
+          },
+          {
+            "href": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/sp/VW1/details",
+            "text": "View your work",
+            "label": ""
+          }
+        ]
+      }
+    }
+  },
+  "todo": {
+    "url": "https://classroom.google.com/a/not-turned-in/all",
+    "final_url": "",
+    "title": "",
+    "text": "To-do\nAssigned\nNo due date\nassignment\nExit ticket: osmosis\nBiology 101 - Period 2\nThis week\nassignment\nCell membrane lab report\nBiology 101 - Period 2\nFriday, 11:59 PM",
+    "links": [],
+    "expanded": true
+  },
+  "missing": {
+    "url": "https://classroom.google.com/a/missing/all",
+    "final_url": "",
+    "title": "",
+    "text": "To-do\nMissing\nEarlier\nassignment\nPunnett square practice\nBiology 101 - Period 2\nMonday",
+    "links": [],
+    "expanded": true
+  },
+  "details": {
+    "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/LAB1/details": {
+      "url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/LAB1/details",
+      "final_url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/a/LAB1/details",
+      "title": "Cell membrane lab report",
+      "text": "Biology 101 - Period 2\nCell membrane lab report\nMore options\nMs. Rivera\n\u2022\nMar 8\n100 points\nDue Friday, 11:59 PM\nWrite up the lab using the template. Include your data table.\nLab report template\nGoogle Docs\nClass comments\nAdd class comment",
+      "links": [
+        {
+          "href": "https://docs.google.com/document/d/TEMPLATE/edit",
+          "text": "Lab report template\nGoogle Docs",
+          "label": "Attachment: Google Docs: Lab report template"
+        },
+        {
+          "href": "https://support.google.com/edu/classroom",
+          "text": "Help",
+          "label": ""
+        }
+      ]
+    },
+    "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/m/SLD1/details": {
+      "url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/m/SLD1/details",
+      "final_url": "https://classroom.google.com/c/NzAxMjM0NTY3ODkw/m/SLD1/details",
+      "title": "Unit 3 slides",
+      "text": "Unit 3 slides\nMore options\nMs. Rivera\nMar 1\nDue \nSlides from class.\nUnit 3 deck\nGoogle Slides\nClass comments",
+      "links": [
+        {
+          "href": "https://docs.google.com/presentation/d/DECK/edit",
+          "text": "Unit 3 deck\nGoogle Slides",
+          "label": "Attachment: Google Slides: Unit 3 deck"
+        },
+        {
+          "href": "https://www.youtube.com/watch?v=VIDEO",
+          "text": "Cell video",
+          "label": "Attachment: YouTube video: Cell video"
+        }
+      ]
+    }
+  }
+}

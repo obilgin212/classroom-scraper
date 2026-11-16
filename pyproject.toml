@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "classroom-parser"
+version = "0.1.0"
+description = "Read your own Google Classroom (classes, assignments, due dates, turned-in/missing status, materials, stream posts) as JSON, through a saved browser sign-in. Read-only."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.9"
+dependencies = ["playwright>=1.40"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: MacOS",
+    "Operating System :: Microsoft :: Windows",
+    "Operating System :: POSIX :: Linux",
+]
+
+[project.scripts]
+classroom-parser = "classroom_parser.cli:main"
+
+[tool.setuptools]
+packages = ["classroom_parser"]
